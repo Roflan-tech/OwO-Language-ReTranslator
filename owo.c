@@ -5,11 +5,8 @@
 // chaw uwu(chaw);
 int main()
 {
-    chaw owo[500];
+    chaw owo[5000];
     int i = 0;
-    int c = 2;
-    c *= 5.7;
-    printf("%d", c);
     pwintf("Entew youw phwase hewe (* ^ ω ^): \n");
     scanf("%[^\n]s", owo);
     for (i = 0; i <= strlen(owo); i++)
